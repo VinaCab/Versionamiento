@@ -3,7 +3,7 @@ function Dashboard() {
   return (
     <div>
 
-      <h1>Bienvenido al dahsboard</h1>
+      <h1>Dahsboard</h1>
 
       <p>
         Estadísticas generales del CRM en el dahsboard.

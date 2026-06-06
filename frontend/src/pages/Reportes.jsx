@@ -3,7 +3,7 @@ function Reportes() {
   return (
     <div>
 
-      <h1>Reportes del CRM</h1>
+      <h1>Reportes</h1>
 
       <p>
         Reportes del sistema CRM.
